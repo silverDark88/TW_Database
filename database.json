@@ -6,6 +6,7 @@
       "firstName": "Michel",
       "lastName": "Mares",
       "birthDate": "2011-05-12"
+      "profileImage": "121510.png"
     },
     {
       "id": "00002",
@@ -13,6 +14,7 @@
       "firstName": "Ana",
       "lastName": "Martinez",
       "birthDate": "2010-09-23"
+      "profileImage": "00002.png"
     },
     {
       "id": "00003",
@@ -20,6 +22,7 @@
       "firstName": "Carlos",
       "lastName": "Lopez",
       "birthDate": "2012-01-17"
+      "profileImage": "00003.png"
     }
   ]
 }
