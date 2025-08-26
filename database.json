@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "00001",
+      "password": "hashed_password_1",
+      "firstName": "Michel",
+      "lastName": "Gonzalez",
+      "birthDate": "2011-05-12"
+    },
+    {
+      "id": "00002",
+      "password": "hashed_password_2",
+      "firstName": "Ana",
+      "lastName": "Martinez",
+      "birthDate": "2010-09-23"
+    },
+    {
+      "id": "00003",
+      "password": "hashed_password_3",
+      "firstName": "Carlos",
+      "lastName": "Lopez",
+      "birthDate": "2012-01-17"
+    }
+  ]
+}
