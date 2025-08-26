@@ -1,10 +1,10 @@
 {
   "users": [
     {
-      "id": "00001",
-      "password": "hashed_password_1",
+      "id": "121510",
+      "password": "TestProof",
       "firstName": "Michel",
-      "lastName": "Gonzalez",
+      "lastName": "Mares",
       "birthDate": "2011-05-12"
     },
     {
